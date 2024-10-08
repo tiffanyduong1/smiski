@@ -1,0 +1,37 @@
+.navbar-nav a {
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    color: #757575;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #3ca535;
+}
+
+.dropdown-menu {
+    background-color: #f7e800;
+}
+
+.dropdown-item:hover {
+    color: #3ca535;
+    background-color: #f7e800;
+}
+
+.smiski {
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    color: #228B21;
+    font-size: 1.1em;
+    letter-spacing: 2px;
+}
+
+.text1 {
+    color: #606060;
+    font-weight: 400;
+}
+
+.text2 {
+    color: white;
+    font-weight: 400;
+}
